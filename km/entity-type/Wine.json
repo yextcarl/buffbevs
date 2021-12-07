@@ -1,0 +1,54 @@
+{
+  "$id": "buffalobevs_Wine",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v1",
+  "description": "",
+  "displayName": "Wine",
+  "enabled": true,
+  "field": [
+    {
+      "id": "yext/color",
+      "required": true
+    },
+    {
+      "id": "yext/description",
+      "required": false
+    },
+    {
+      "id": "yext/name",
+      "required": true
+    },
+    {
+      "id": "buffalobevs_ABV",
+      "required": false
+    },
+    {
+      "id": "buffalobevs_type",
+      "required": false
+    },
+    {
+      "id": "buffalobevs_vineyard",
+      "required": false
+    },
+    {
+      "id": "buffalobevs_vintage",
+      "required": false
+    },
+    {
+      "id": "yext/folder",
+      "required": false
+    },
+    {
+      "id": "yext/labels",
+      "required": false
+    },
+    {
+      "id": "yext/priceRange",
+      "required": false
+    },
+    {
+      "id": "yext/entityId",
+      "required": true
+    }
+  ],
+  "pluralDisplayName": "Wines"
+}

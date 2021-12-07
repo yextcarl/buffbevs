@@ -1,0 +1,14 @@
+{
+  "$id": "buffalobevs_9",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "buffalobevs_ABV": "4.8",
+    "buffalobevs_beerType": "White Ale",
+    "yext/brand": "Dogfish Head",
+    "yext/name": "Namaste"
+  },
+  "entityType": "buffalobevs_Beer",
+  "folder": "yext/root",
+  "labels": []
+}

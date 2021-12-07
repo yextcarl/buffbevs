@@ -1,0 +1,17 @@
+{
+  "$id": "buffalobevs_11",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "buffalobevs_type": "White blend",
+    "buffalobevs_vineyard": "Wölffer Estate",
+    "buffalobevs_vintage": "2020",
+    "yext/color": "Yellow",
+    "yext/description": "Serve chilled. This wonderful aromatic white blend is extremely versatile and will be delicious on its own or with an array of dishes like shellfish, sushi or sashimi, white meats with creamy sauces and of course any spicy foods.",
+    "yext/name": "Summer in a Bottle White 2020",
+    "yext/priceRange": "TWO"
+  },
+  "entityType": "buffalobevs_Wine",
+  "folder": "yext/root",
+  "labels": []
+}

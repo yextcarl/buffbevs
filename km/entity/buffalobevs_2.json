@@ -1,0 +1,14 @@
+{
+  "$id": "buffalobevs_2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "buffalobevs_ABV": "7.5",
+    "buffalobevs_beerType": "American Brown Ale",
+    "yext/brand": "Voodoo Brewing Co.",
+    "yext/name": "Wynona\u0027s Big Brown Ale"
+  },
+  "entityType": "buffalobevs_Beer",
+  "folder": "yext/root",
+  "labels": []
+}

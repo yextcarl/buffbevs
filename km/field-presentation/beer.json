@@ -1,0 +1,58 @@
+{
+  "$id": "buffalobevs_beer",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "buffalobevs_Beer",
+  "displayName": "Beer",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "yext/entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "yext/brand",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "yext/priceRange",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "buffalobevs_ABV",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "buffalobevs_beerType",
+          "visibleOnAdd": true
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/folder"
+        },
+        {
+          "id": "yext/labels"
+        }
+      ]
+    }
+  ]
+}

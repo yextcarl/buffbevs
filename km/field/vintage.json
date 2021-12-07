@@ -1,0 +1,13 @@
+{
+  "$id": "buffalobevs_vintage",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Vintage",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE"
+    }
+  },
+  "typeId": "yext/string"
+}

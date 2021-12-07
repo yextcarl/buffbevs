@@ -1,0 +1,14 @@
+{
+  "$id": "buffalobevs_5",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "buffalobevs_ABV": "6.5",
+    "buffalobevs_beerType": "Hazy IPA",
+    "yext/brand": "Brooklyn Brewery",
+    "yext/name": "Pulp Art Hazy IPA"
+  },
+  "entityType": "buffalobevs_Beer",
+  "folder": "yext/root",
+  "labels": []
+}

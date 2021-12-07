@@ -1,0 +1,14 @@
+{
+  "$id": "buffalobevs_7",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "buffalobevs_ABV": "4.5",
+    "buffalobevs_beerType": "Sour Ale",
+    "yext/brand": "Brooklyn Brewery",
+    "yext/name": "Bel Air Sour"
+  },
+  "entityType": "buffalobevs_Beer",
+  "folder": "yext/root",
+  "labels": []
+}

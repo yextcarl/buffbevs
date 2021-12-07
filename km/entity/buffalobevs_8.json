@@ -1,0 +1,14 @@
+{
+  "$id": "buffalobevs_8",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "buffalobevs_ABV": "7.3",
+    "buffalobevs_beerType": "West Coast IPA",
+    "yext/brand": "Voodoo Brewing Co.",
+    "yext/name": "Hoodoo"
+  },
+  "entityType": "buffalobevs_Beer",
+  "folder": "yext/root",
+  "labels": []
+}

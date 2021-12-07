@@ -1,0 +1,16 @@
+{
+  "$id": "buffalobevs_10",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "buffalobevs_type": "Rosé",
+    "buffalobevs_vineyard": "Wölffer Estate",
+    "buffalobevs_vintage": "2020",
+    "yext/color": "Copper",
+    "yext/description": "Beautiful aromas of ripe cranberries, lovely creamy yeast notes, a tiny hint of toasted oak and classic crushed stones fill the glass.",
+    "yext/name": "Grandioso Rosé 2020"
+  },
+  "entityType": "buffalobevs_Wine",
+  "folder": "yext/root",
+  "labels": []
+}

@@ -1,0 +1,18 @@
+{
+  "$id": "buffalobevs_12",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "buffalobevs_ABV": "13",
+    "buffalobevs_type": "Rosé",
+    "buffalobevs_vineyard": "Chateau d\u0027Esclans",
+    "buffalobevs_vintage": "2020",
+    "yext/color": "Pale Peach",
+    "yext/description": "A dry rosé, fruity \u0026 floral.",
+    "yext/name": "Whispering Angel",
+    "yext/priceRange": "TWO"
+  },
+  "entityType": "buffalobevs_Wine",
+  "folder": "yext/root",
+  "labels": []
+}

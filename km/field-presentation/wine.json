@@ -1,0 +1,69 @@
+{
+  "$id": "buffalobevs_wine",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "buffalobevs_Wine",
+  "displayName": "Wine",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "yext/entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "buffalobevs_vintage",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "yext/color",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "yext/priceRange",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "buffalobevs_type",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "buffalobevs_vineyard",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "yext/description",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "buffalobevs_ABV"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "yext/folder"
+        },
+        {
+          "id": "yext/labels"
+        }
+      ]
+    }
+  ]
+}
