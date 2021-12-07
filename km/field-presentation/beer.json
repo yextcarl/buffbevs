@@ -13,19 +13,19 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/name",
+          "id": "name",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/entityId",
+          "id": "entityId",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/brand",
+          "id": "brand",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/priceRange",
+          "id": "priceRange",
           "visibleOnAdd": true
         },
         {
@@ -47,10 +47,10 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/folder"
+          "id": "folder"
         },
         {
-          "id": "yext/labels"
+          "id": "labels"
         }
       ]
     }

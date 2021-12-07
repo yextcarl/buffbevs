@@ -13,11 +13,11 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/name",
+          "id": "name",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/entityId",
+          "id": "entityId",
           "visibleOnAdd": true
         },
         {
@@ -25,11 +25,11 @@
           "visibleOnAdd": true
         },
         {
-          "id": "yext/color",
+          "id": "color",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/priceRange",
+          "id": "priceRange",
           "visibleOnAdd": true
         },
         {
@@ -41,7 +41,7 @@
           "visibleOnAdd": true
         },
         {
-          "id": "yext/description",
+          "id": "description",
           "visibleOnAdd": true
         },
         {
@@ -58,10 +58,10 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/folder"
+          "id": "folder"
         },
         {
-          "id": "yext/labels"
+          "id": "labels"
         }
       ]
     }
